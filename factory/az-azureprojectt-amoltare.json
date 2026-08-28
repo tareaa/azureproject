@@ -1,0 +1,15 @@
+{
+	"name": "az-azureprojectt-amoltare",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2504fb3d-f243-48bb-96f2-807f9aa7f37a",
+		"tenantId": "af1937c5-0fbf-4115-8808-b3ce848d97d0"
+	}
+}
