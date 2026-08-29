@@ -156,7 +156,7 @@
 							{
 								"name": "cdc",
 								"value": {
-									"value": "huiyiy",
+									"value": "@activity('max_cdc').output",
 									"type": "Expression"
 								}
 							}
