@@ -13,7 +13,7 @@
 						]
 					},
 					{
-						"activity": "Set variable1",
+						"activity": "current",
 						"dependencyConditions": [
 							"Succeeded"
 						]
@@ -114,7 +114,7 @@
 				}
 			},
 			{
-				"name": "Set variable1",
+				"name": "current",
 				"type": "SetVariable",
 				"dependsOn": [],
 				"policy": {
