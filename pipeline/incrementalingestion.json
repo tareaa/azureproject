@@ -131,7 +131,7 @@
 				}
 			},
 			{
-				"name": "Copy data1",
+				"name": "updated_last_cdc",
 				"type": "Copy",
 				"dependsOn": [
 					{
